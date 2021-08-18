@@ -1,0 +1,2 @@
+# monitor-auto-brightness
+Connects Yoctopuce library (interacts with Yoctopuce Light V3 USB controlled ambient light sensor) with JNA to set monitor brightness based on ambient light reading. This was just something I wanted to try out but then learned it requires Yoctopuce's VirtualHub software to run in the background to work. I plan to come back to this in Python in the future to create a standalone Windows application.
